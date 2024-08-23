@@ -24,11 +24,5 @@ Recent PhD graduate in Electrical Engineering from Duke University, with a stron
 - **Concentration Phenomenon for Random Dynamical Systems: An Operator Theoretic Approach** (Learning for Dynamics and Control Conference, 2023)
 - **From Spectral Theorem to Statistical Independence with Applications to System Identification** (with A. Khazraei and M. Pajic)
 - **Transportation-Inequalities, Lyapunov Stability and Sampling for Dynamical Systems on Continuous State Space** (with M. Pajic, Learning for Dynamics and Control Conference, 2023)
-
-## Research Experience
-
-- **Ph.D. Dissertation**: 
-  - Developed a quantitative handle on eigenvalue statistics of the sample covariance matrix for time realizations of high-dimensional Gaussian auto-regressive models.
-  - Demonstrated that performance of OLS estimator on Markovian data is dictated by eigenvalue distribution, with significant implications for financial modeling.
   
 
